@@ -5,3 +5,6 @@ config your visual studio code for coding c/c++ faster,easier.
 2. launch.json
 3. tasks.json
 4. project1.cpp
+# How to use?
+Sleeping...
+For Next Day
